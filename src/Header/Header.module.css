@@ -1,0 +1,66 @@
+.header_container{
+    display: flex;
+    margin-top: 3%;
+}
+
+.borderlabelbutton {
+    margin-left: 6%;
+    position: relative;
+    width: 160px;
+    padding: 8px;
+    border: 2px solid #EEEEEE;
+    background-color: #fff;
+    font-size: 14px;
+    text-align: initial;
+  }
+.borderlabelbuttonexp {
+    margin-left: 1%;
+    position: relative;
+    width: 160px;
+    padding: 8px;
+    border: 2px solid #EEEEEE;
+    background-color: #fff;
+    font-size: 14px;
+    text-align: initial;
+}
+  
+.label {
+    position: absolute;
+    top: -7px;
+    left: 10px;
+    background-color: #fff;
+    padding: 0 6px;
+    font-size: 10px;
+    color: #808080;
+}
+.text_spot{
+    display: flex;
+    flex-direction: column;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+.text_fut{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.basket_btn{
+    width:116px;
+    height:38px;
+    color:white;
+    background-color:blue;
+    border:none;
+    position: relative;
+}
+.basket_count{
+    position: absolute;
+    right: 170px;
+    top: 115px;
+    background: yellow;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    color: black;
+}

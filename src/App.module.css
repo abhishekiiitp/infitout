@@ -1,0 +1,20 @@
+.btn_cont{
+  display: flex;
+  
+}
+
+.ltp{
+  width: 70px;
+  height: 32px;
+  background: blue;
+  border: none;
+  color: white;
+  border-radius: 6px;
+}
+.greeks{
+  width: 70px;
+  height: 32px;
+  background: #EEEEEE;
+  border: none;
+  border-radius: 6px;
+}
